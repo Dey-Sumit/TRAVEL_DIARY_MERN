@@ -1,0 +1,18 @@
+.marker {
+    stroke: yellow;
+}
+
+.popup {
+    width: 40vw;
+    padding: 1rem;
+}
+
+.entry-form label,
+.entry-form textarea,
+.entry-form input,
+.entry-form button {
+    margin: 0.2rem 0;
+    padding: 0.5rem;
+    display: block;
+    width: 90%;
+}
